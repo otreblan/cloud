@@ -11,7 +11,7 @@
 # Forums: http://www.spigotmc.org/
 
 settings:
-  bungeecord: false
+  bungeecord: true
   save-user-cache-on-stop-only: false
   sample-count: 12
   timeout-time: 60

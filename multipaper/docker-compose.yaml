@@ -7,13 +7,13 @@ services:
       - multipaper-world:/MultiPaper/world
       - multipaper-world_nether:/MultiPaper/world_nether
       - multipaper-world_the_end:/MultiPaper/world_the_end
+    ports:
+      - "25565:25565"
 
   paperclip:
     build:
       context: .
       target: paperclip
-    ports:
-      - "25565:25565"
 
 volumes:
   multipaper-world:
