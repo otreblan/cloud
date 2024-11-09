@@ -3,6 +3,10 @@ services:
     build:
       context: .
       target: master
+    volumes:
+      - multipaper-world:/MultiPaper/world
+      - multipaper-world_nether:/MultiPaper/world_nether
+      - multipaper-world_the_end:/MultiPaper/world_the_end
 
   paperclip:
     build:
@@ -10,3 +14,8 @@ services:
       target: paperclip
     ports:
       - "25565:25565"
+
+volumes:
+  multipaper-world:
+  multipaper-world_nether:
+  multipaper-world_the_end:
