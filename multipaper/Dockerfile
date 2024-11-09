@@ -27,5 +27,5 @@ CMD ["java", "-jar", "multipaper-master.jar", "35353", "25565"]
 FROM jar-base AS paperclip
 COPY --from=build /MultiPaper/multipaper-paperclip.jar /MultiPaper
 COPY paperclip-entrypoint.sh .
-COPY config/*.yml .
+COPY config/* .
 ENTRYPOINT ["./paperclip-entrypoint.sh"]
