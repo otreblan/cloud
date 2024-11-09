@@ -1,0 +1,12 @@
+services:
+  paper:
+    build: .
+    environment:
+      EULA: TRUE
+    ports:
+      - "25565:25565"
+
+volumes:
+  paper-data:
+    driver: local
+
