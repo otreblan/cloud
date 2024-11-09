@@ -15,6 +15,8 @@ RUN mv build/libs/multipaper-paperclip*-reobf.jar multipaper-paperclip.jar
 RUN ls -lha
 
 FROM eclipse-temurin:17-jre-alpine AS jar-base
+# https://spark.lucko.me/docs/misc/Using-async-profiler#install-libstdc
+RUN apk add --no-cache libstdc++
 WORKDIR /MultiPaper
 RUN echo eula=TRUE > eula.txt
 
@@ -24,4 +26,5 @@ CMD ["java", "-jar", "multipaper-master.jar"]
 
 FROM jar-base AS paperclip
 COPY --from=build /MultiPaper/multipaper-paperclip.jar /MultiPaper
-CMD ["java", "-jar", "multipaper-paperclip.jar"]
+COPY paperclip-init.sh .
+CMD ["./paperclip-init.sh"]

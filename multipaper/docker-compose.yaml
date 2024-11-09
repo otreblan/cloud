@@ -1,0 +1,12 @@
+services:
+  master:
+    build:
+      context: .
+      target: master
+
+  paperclip:
+    build:
+      context: .
+      target: paperclip
+    ports:
+      - "25565:25565"
