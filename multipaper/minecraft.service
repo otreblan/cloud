@@ -1,0 +1,14 @@
+[Unit]
+Description=Minecraft cloudflare tunnel
+Wants=network-online.target
+
+[Service]
+Type=notify
+ExecStart=cloudflared access tcp --hostname minecraft.otreblan.cc --url 0.0.0.0:25565
+
+TimeoutStartSec=0
+RestartSec=2
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
