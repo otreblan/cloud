@@ -1,0 +1,6 @@
+services:
+  mc-bots:
+    build: .
+    command: ["-s", "otreblan.cc:25565", "-c", "1000", "-d", "10", "100"]
+    stdin_open: true
+    tty: true
