@@ -1,0 +1,8 @@
+services:
+  bots:
+    build:
+      context: .
+    environment:
+      STRESS_TEST_IP: otreblan.cc
+    stdin_open: true
+    tty: true
