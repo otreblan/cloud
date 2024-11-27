@@ -19,6 +19,9 @@ docker compose up
 - Dominio (otreblan.cc): 8\$/año
 - VPS droplet: 6\$/mes
 
+## Arquitectura
+![](./arquitectura.svg)
+
 ## Cosas por hacer
 - Monitoreo
 - Stress test
