@@ -23,8 +23,7 @@ docker compose up
 ![](./arquitectura.svg)
 
 ## Cosas por hacer
-- Monitoreo
-- Stress test
-- Auto escalabilidad (up and down) https://github.com/MultiPaper/MultiPaper/issues/406
-- Costo
-- README (arquitectura, droplet, dominio, tunnel, containers, demo)
+- Auto escalabilidad (up and down) shell script.
+- Video con bots
+- Explicación de la arquitectura
+- Conclusión
