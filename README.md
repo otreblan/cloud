@@ -22,10 +22,8 @@ docker compose up
 ## Arquitectura
 ![](./arquitectura.svg)
 
+## Video
+https://youtu.be/2C55SBClx9w
+
 ## Conclusión
 El tráfico de red causado por cientos de bots satura la conexión del Droplet.
-
-## Cosas por hacer
-- Auto escalabilidad (up and down) shell script.
-- Video con bots
-- Explicación de la arquitectura
