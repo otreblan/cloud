@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.77415123"
-     inkscape:cx="611.6376"
-     inkscape:cy="311.95455"
+     inkscape:cx="470.83824"
+     inkscape:cy="419.16875"
      inkscape:window-width="1920"
      inkscape:window-height="1050"
      inkscape:window-x="0"
@@ -192,113 +192,140 @@
        id="rect1"
        width="58.784809"
        height="62.886074"
-       x="92.723305"
-       y="55.467762" />
+       x="87.265266"
+       y="74.067474" />
     <text
        xml:space="preserve"
        style="font-size:8.46667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1"
-       x="122.57252"
-       y="84.767891"
+       x="117.11448"
+       y="103.3676"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
          style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249"
-         x="122.57252"
-         y="84.767891">Digitalocean</tspan><tspan
+         x="117.11448"
+         y="103.3676">Digitalocean</tspan><tspan
          sodipodi:role="line"
          style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249"
-         x="122.57252"
-         y="95.351227"
-         id="tspan2">droplet</tspan></text>
+         x="117.11448"
+         y="113.95094"
+         id="tspan3">droplet</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.46667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1"
-       x="208.46039"
-       y="94.761536"
+       x="203.00235"
+       y="113.36124"
        id="text1-6"><tspan
          sodipodi:role="line"
          style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249"
-         x="208.46039"
-         y="94.761536"
+         x="203.00235"
+         y="113.36124"
          id="tspan2-8">Master</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.46667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1"
-       x="167.29306"
-       y="86.290222"
+       x="161.83502"
+       y="104.88993"
        id="text1-6-8"><tspan
          sodipodi:role="line"
          style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249"
-         x="167.29306"
-         y="86.290222"
+         x="161.83502"
+         y="104.88993"
          id="tspan2-8-6">Tunnel</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.46667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1"
-       x="74.492554"
-       y="91.078285"
+       x="116.55607"
+       y="68.835861"
        id="text1-6-8-3"><tspan
          sodipodi:role="line"
          style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249"
-         x="74.492554"
-         y="91.078285"
-         id="tspan2-8-6-1">Tunnel</tspan></text>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
-       id="rect1-0"
-       width="105.7447"
-       height="113.12223"
-       x="182.97639"
-       y="33.441559" />
+         x="116.55607"
+         y="68.835861"
+         id="tspan2-8-6-1">otreblan.cc:25565</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.46667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1"
-       x="235.48466"
-       y="46.292641"
+       x="229.95467"
+       y="34.224617"
+       id="text1-6-8-3-9"><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249"
+         x="229.95467"
+         y="34.224617"
+         id="tspan2-8-6-1-1">Local PC with multipaper</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249"
+         x="229.95467"
+         y="44.807953"
+         id="tspan5">on docker compose</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1"
+       x="42.998302"
+       y="160.55045"
+       id="text1-6-8-3-5"><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249"
+         x="42.998302"
+         y="160.55045"
+         id="tspan2-8-6-1-3">Player</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-0"
+       width="105.7447"
+       height="113.12223"
+       x="177.51836"
+       y="52.041271" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1"
+       x="230.02663"
+       y="64.892349"
        id="text1-9"><tspan
          sodipodi:role="line"
          style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249"
-         x="235.48466"
-         y="46.292641"
+         x="230.02663"
+         y="64.892349"
          id="tspan2-6">Ryzen 9950x</tspan><tspan
          sodipodi:role="line"
          style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249"
-         x="235.48466"
-         y="56.875977"
+         x="230.02663"
+         y="75.475685"
          id="tspan4">32 Gb</tspan></text>
     <circle
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1"
        id="path2"
-       cx="48.873417"
-       cy="60.835442"
+       cx="43.415379"
+       cy="79.43515"
        r="16.234177" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1"
-       d="M 48.873417,77.694117 V 116.88608"
+       d="M 43.415378,96.293828 V 135.48579"
        id="path3" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1"
-       d="m 48.873417,88.177213 10.424052,11.79114"
+       d="M 43.415378,106.77692 53.83943,118.56806"
        id="path4" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1"
-       d="M 49.133865,88.177216 38.709813,99.96835"
+       d="M 43.675826,106.77693 33.251774,118.56806"
        id="path4-5" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1"
-       d="m 48.873417,116.89232 10.424052,11.79115"
+       d="M 43.415378,135.49203 53.83943,147.28318"
        id="path4-2" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1"
-       d="M 49.133865,116.89233 38.709813,128.68346"
+       d="M 43.675826,135.49204 33.251774,147.28317"
        id="path4-5-9" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect4"
        width="37.819897"
        height="35.26936"
-       x="189.8385"
-       y="74.078857" />
+       x="184.38046"
+       y="92.678566" />
     <g
        id="g7"
        inkscape:tile-cx="261.37649"
@@ -307,7 +334,7 @@
        inkscape:tile-h="13.347298"
        inkscape:tile-x0="241.58577"
        inkscape:tile-y0="73.623686"
-       transform="translate(0,-12.788243)">
+       transform="translate(-5.4580393,5.8114681)">
       <text
          xml:space="preserve"
          style="font-size:8.46667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.249;stroke-linejoin:round;stroke-opacity:1"
@@ -363,37 +390,37 @@
        id="use19" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide)"
-       d="m 61.504864,97.290098 30.593941,-2e-6"
+       d="m 56.046825,115.88981 30.593941,0"
        id="path19"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide-6)"
-       d="M 152.13261,90.8539 189.214,90.92468"
+       d="m 146.67457,109.45361 37.08139,0.0708"
        id="path19-9"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide-6-9)"
-       d="M 227.26596,79.075483 241.58577,67.242385"
+       d="M 221.80792,97.675194 236.12773,85.842096"
        id="path19-9-8"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide-6-9-0)"
-       d="m 227.26596,93.033597 14.31981,4.479587"
+       d="m 221.80792,111.63331 14.31981,4.47959"
        id="path19-9-8-1"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide-6-9-3)"
-       d="m 227.26596,85.468788 14.31981,-3.132999"
+       d="m 221.80792,104.0685 14.31981,-3.133"
        id="path19-9-8-6"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide-6-9-5)"
-       d="m 227.26596,99.105481 14.31981,14.852209"
+       d="m 221.80792,117.70519 14.31981,14.85221"
        id="path19-9-8-65"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.249;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide-6-9-37)"
-       d="m 227.26596,106.67029 14.68231,23.3298"
+       d="m 221.80792,125.27 14.68231,23.3298"
        id="path19-9-8-5"
        sodipodi:nodetypes="cc" />
   </g>
